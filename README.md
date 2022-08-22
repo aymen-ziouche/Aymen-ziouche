@@ -11,6 +11,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aymen-ziouche&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=aymen-ziouche&icon=2&color=6)](https://visitcount.itsvg.in)
